@@ -10,7 +10,7 @@ if sys.platform == "win32":
     base = "Win32GUI"
 
 shortcut_table = [
-    ("DesktopShortcut",  # Shortcut
+    ("DesktopShortcut",
      "DesktopFolder",   # Directory_
      "Student Management System",  # Name
      "TARGETDIR",       # Component_
